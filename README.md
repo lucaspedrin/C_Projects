@@ -2,7 +2,7 @@
 
 25 small projects created with C language.
 
-## Projects list
+## 📝 Projects list
 
 + ex001 - a classic "Hello, world!" program.
 
@@ -65,7 +65,7 @@
     $git clone https://github.com/lucaspedrin/C_Projects.git
 ```
 
-2 - Download a [C compiler](https://gcc.gnu.org/)
+2 - [Download](https://gcc.gnu.org/) a C compiler
 
 3 - Go to the exercises folder
 ```bash
