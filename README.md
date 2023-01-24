@@ -2,9 +2,11 @@
 
 25 small projects created with C language.
 
----
+##
 
 ### Projects list
+
+---
 
 + ex001 - classic "Hello, world!" program.
 
