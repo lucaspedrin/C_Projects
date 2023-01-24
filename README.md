@@ -8,7 +8,7 @@
 
 ---
 
-+ ex001 - classic "Hello, world!" program.
++ ex001 - a classic "Hello, world!" program.
 
 + ex002 - a "welcome *user" program.
 
@@ -24,7 +24,7 @@
 
 + ex008 - a multiplication table generator.
 
-+ ex009 - a real to dolár converter (quotation probaly not updated).
++ ex009 - a real to dollar converter (quotation probaly not updated).
 
 + ex010 - a program that indicates the amount of paint needed to paint a wall.
 
@@ -50,9 +50,9 @@
 
 + ex021 - a leap year checker.
 
-+ ex022 - a greater or lesser checker.
++ ex022 - a greater or lesser number checker.
 
-+ ex023 - a program that checks whether a triangle can be formed.
++ ex023 - a program that checks if a triangle can be formed.
 
 + ex024 - a rock paper scissors game.
 
@@ -60,3 +60,28 @@
 
 ---
 
+## 🛠️ Tools
+- [GCC](https://gcc.gnu.org/)
+- [VS Code](https://code.visualstudio.com/)
+
+## 👨🏽‍💻 Instructions
+1 - Download the repository
+```bash
+    #use in terminal
+    $git clone https://github.com/lucaspedrin/C_Projects.git
+```
+
+2 - Download a [C compiler](https://gcc.gnu.org/)
+
+3 - Go to the exercises folder
+```bash
+    #using cd(change directory).
+    $cd exercises/
+```
+
+4 - Compile and run
+```bash
+    #Compile and run example: (using gcc)
+    $gcc ex001.c
+    $./a.out
+```
