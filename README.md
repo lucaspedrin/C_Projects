@@ -2,8 +2,6 @@
 
 25 small projects created with C language.
 
-##
-
 ## Projects list
 
 + ex001 - a classic "Hello, world!" program.
@@ -55,8 +53,6 @@
 + ex024 - a rock paper scissors game.
 
 + ex025 - a pokémon-like game.
-
-##
 
 ## 🛠️ Tools
 - [GCC](https://gcc.gnu.org/)
