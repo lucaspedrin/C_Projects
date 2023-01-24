@@ -4,9 +4,7 @@
 
 ##
 
-### Projects list
-
----
+## Projects list
 
 + ex001 - a classic "Hello, world!" program.
 
@@ -58,7 +56,7 @@
 
 + ex025 - a pokémon-like game.
 
----
+##
 
 ## 🛠️ Tools
 - [GCC](https://gcc.gnu.org/)
